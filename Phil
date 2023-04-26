@@ -1,0 +1,7 @@
+echo "# Python2343" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Python2343/Python2343.git
+git push -u origin main
